@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.chenjiahao-academy.com/2020/08/11/test/</loc>
-    
-    <lastmod>2020-08-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.chenjiahao-academy.com/2020/08/11/hello-world/</loc>
     
     <lastmod>2020-08-12</lastmod>
@@ -17,6 +10,20 @@
   
   <url>
     <loc>http://www.chenjiahao-academy.com/about/index.html</loc>
+    
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.chenjiahao-academy.com/2020/08/12/test-1/</loc>
+    
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.chenjiahao-academy.com/2020/08/11/test/</loc>
     
     <lastmod>2020-08-12</lastmod>
     

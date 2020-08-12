@@ -6,7 +6,7 @@
   <link href="http://www.chenjiahao-academy.com/atom.xml" rel="self"/>
   
   <link href="http://www.chenjiahao-academy.com/"/>
-  <updated>2020-08-12T09:10:52.196Z</updated>
+  <updated>2020-08-12T11:48:43.260Z</updated>
   <id>http://www.chenjiahao-academy.com/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://www.chenjiahao-academy.com/2020/08/12/test-1/"/>
+    <id>http://www.chenjiahao-academy.com/2020/08/12/test-1/</id>
+    <published>2020-08-12T11:48:43.000Z</published>
+    <updated>2020-08-12T11:48:43.260Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>paper</title>
     <link href="http://www.chenjiahao-academy.com/2020/08/11/hello-world/"/>
     <id>http://www.chenjiahao-academy.com/2020/08/11/hello-world/</id>
     <published>2020-08-11T10:04:45.000Z</published>
-    <updated>2020-08-12T09:10:52.196Z</updated>
+    <updated>2020-08-12T11:53:54.635Z</updated>
     
     
     
