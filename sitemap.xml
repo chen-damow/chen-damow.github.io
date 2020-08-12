@@ -2,34 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://www.chenjiahao-academy.com/2020/08/11/test/</loc>
     
-    <lastmod>2020-08-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/08/11/test/</loc>
-    
-    <lastmod>2020-08-11</lastmod>
+    <lastmod>2020-08-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/11/hello-world/</loc>
+    <loc>http://www.chenjiahao-academy.com/2020/08/11/hello-world/</loc>
     
-    <lastmod>2020-08-11</lastmod>
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.chenjiahao-academy.com/about/index.html</loc>
+    
+    <lastmod>2020-08-12</lastmod>
     
   </url>
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
+    <loc>http://www.chenjiahao-academy.com/</loc>
     <lastmod>2020-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://www.chenjiahao-academy.com/tags/paper/</loc>
+    <lastmod>2020-08-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chenjiahao-academy.com/tags/books/</loc>
+    <lastmod>2020-08-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
